@@ -1,4 +1,4 @@
-![Image Alt Text](https://github.com/GayasuddinMohd/Hotel-Booking-Analysis/blob/main/Hotel%20Booking%20Image.jpg?raw=true)
+![Image Alt Text](https://github.com/GayasuddinMohd/Hotel-Booking-Analysis/blob/main/Hotel%20Booking%20Image.jpeg?raw=true)
 
 
 
