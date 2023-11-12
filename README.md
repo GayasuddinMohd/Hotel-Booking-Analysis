@@ -1,4 +1,4 @@
-![Image Alt Text](https://github.com/GayasuddinMohd/Hotel-Booking-Analysis/blob/main/Hotel%20Booking%20Image.jpeg?raw=true)
+![Image Alt Text](https://i.postimg.cc/N06LXcC7/Hotel-Booking-Image.jpg)
 
 # 🌸  Hotel Booking Analysis  🌸
 The Hotel Booking Analysis dataset provides a comprehensive view of hotel reservations, customer preferences, and booking patterns. In this exploratory data analysis (EDA), we will delve into the dataset to uncover trends, insights, and narratives related to hotel bookings, customer behavior, and seasonal variations.
