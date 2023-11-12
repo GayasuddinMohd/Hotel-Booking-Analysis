@@ -9,7 +9,7 @@ The Hotel Booking Analysis dataset provides a comprehensive view of hotel reserv
 # Dataset  
 * Download the dataset from [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?select=hotel_bookings.csv).
   
-#   Summary  
+# Insights  
 * 27.98% bookings are cancelled in Resort Hotel and 41.77% bookings are cancelled in City Hotel.
 * Booking perentage of City Hotel is higher than that of Resort Hotel.
 * August has the highest number of arrivals and January has the lowest number of arrivals.
@@ -31,12 +31,5 @@ The Hotel Booking Analysis dataset provides a comprehensive view of hotel reserv
 * Most number of bookings occured in summer months, so we have to target these summer months to increase the hotel business.
 * Most of the guests are from western nations, so we have to spent more time and money on those nations so that the hotel business will grow more on those nations.
 * Most of the guests are Transient, so we can target these types of guests to increase the number of booking.
-
-#   Conclusion  
-Through this EDA, we aim to gain insights into hotel booking behaviors, customer preferences, and industry trends. The analysis will provide valuable information for hotel managers, marketers, and decision-makers to enhance guest experiences and optimize their offerings.
-
-As we delve into this dataset, we recognize the importance of the hospitality industry in providing travelers with comfortable accommodations and memorable experiences. The Hotel Booking Analysis dataset provides a window into the intricacies of this dynamic sector, where customer satisfaction and efficient operations are paramount.
-
-
 
 
