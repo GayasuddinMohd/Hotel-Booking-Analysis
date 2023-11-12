@@ -1,29 +1,15 @@
 ![Image Alt Text](https://i.postimg.cc/N06LXcC7/Hotel-Booking-Image.jpg)
 
-# 🌸  Hotel Booking Analysis  🌸
-The Hotel Booking Analysis dataset provides a comprehensive view of hotel reservations, customer preferences, and booking patterns. In this exploratory data analysis (EDA), we will delve into the dataset to uncover trends, insights, and narratives related to hotel bookings, customer behavior, and seasonal variations.
+# Hotel Booking Analysis  
+The Hotel Booking Analysis dataset provides a comprehensive view of hotel reservations, customer preferences, and booking patterns. In this analysis, we will delve into the dataset to uncover trends, insights, and narratives related to hotel bookings, customer behavior, and seasonal variations.
 
-# 🌸  Repository Overview  🌸
-This repository is about EDA performed on the Hotel Booking.
-   - It has a python notebook where all the coding has been done.
-   - It also has the relevant datasets and files used for this analysis.
-
-# 🌸  Technologies Used  🌸
+# Technologies Used  
 * Python
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Jupyter Notebok
-* Kaggle
-* Statistics
 
-# 🌸  Dataset  🌸
-* You can download the dataset from the kaggle website.
-* https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?select=hotel_bookings.csv
-
-# 🌸  Summary  🌸
+# Dataset  
+* Download the dataset from [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?select=hotel_bookings.csv).
+  
+#   Summary  
 * 27.98% bookings are cancelled in Resort Hotel and 41.77% bookings are cancelled in City Hotel.
 * Booking perentage of City Hotel is higher than that of Resort Hotel.
 * August has the highest number of arrivals and January has the lowest number of arrivals.
@@ -46,7 +32,7 @@ This repository is about EDA performed on the Hotel Booking.
 * Most of the guests are from western nations, so we have to spent more time and money on those nations so that the hotel business will grow more on those nations.
 * Most of the guests are Transient, so we can target these types of guests to increase the number of booking.
 
-# 🌸  Conclusion  🌸
+#   Conclusion  
 Through this EDA, we aim to gain insights into hotel booking behaviors, customer preferences, and industry trends. The analysis will provide valuable information for hotel managers, marketers, and decision-makers to enhance guest experiences and optimize their offerings.
 
 As we delve into this dataset, we recognize the importance of the hospitality industry in providing travelers with comfortable accommodations and memorable experiences. The Hotel Booking Analysis dataset provides a window into the intricacies of this dynamic sector, where customer satisfaction and efficient operations are paramount.
