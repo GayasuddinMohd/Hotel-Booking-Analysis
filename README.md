@@ -3,7 +3,7 @@
 # Hotel Booking Analysis  
 The Hotel Booking Analysis dataset provides a comprehensive view of hotel reservations, customer preferences, and booking patterns. In this analysis, we will delve into the dataset to uncover trends, insights, and narratives related to hotel bookings, customer behavior, and seasonal variations.
 
-# Technologies Used  
+# Skills
 * Python
 
 # Dataset  
